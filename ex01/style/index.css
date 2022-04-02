@@ -1,0 +1,33 @@
+.pageTitle {
+    color:orangered;
+    text-align: center;
+}
+
+div.galleryRow{
+    margin:auto;
+    width: 60%;
+}
+
+div.card {
+    margin: 2%;
+    float:left;
+    width: 29.33%;
+  }
+  
+  
+  div.card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.imgTitle {
+    padding-top: 15px;
+    padding-left:15px;
+    text-align: justify;
+    color:lightblue;
+  }
+
+  div.imgDesc {
+    padding: 15px;
+    text-align: justify;
+  }
